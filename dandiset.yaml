@@ -53,6 +53,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-05-16T19:08:50.147843+00:00'
+datePublished: '2024-06-05T18:59:05.116225+00:00'
 description: Protocols were applied once, starting from each of the electrodes, to
   a total of four protocols delivered. The 1st pulse amplitude in all protocols was
   4 kV. Electroporation of the cells was evaluated using 1 uM YoPro-1 cell impermeable
@@ -69,6 +70,18 @@ manifestLocation:
 name: CANCAN focusing of electroporation in a quadrupole array by different pulsing
   protocols
 protocol: []
+publishedBy:
+  endDate: '2024-06-05T18:59:05.116225+00:00'
+  id: urn:uuid:bbeefa99-e45e-4902-91ef-3a9ff16ed3b6
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-06-05T18:59:05.116225+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:74b7b32a-6284-441e-af2a-87724a642672
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi.org/10.1016/j.bioelechem.2023.108437
   name: Next generation CANCAN focusing for remote stimulation by nanosecond electric
